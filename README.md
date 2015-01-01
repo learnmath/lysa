@@ -1,3 +1,13 @@
+### Note: This project has forked!
+
+This repository is no longer in use.  The learnmath community is continuing
+work on the book, but the project had to be renamed.  See [our new repository][new-repo]
+for details.  Peter is continuing the work on LYSA separately, you can find
+his repository [here][pharpend-repo].
+
+[new-repo]: https://github.com/learnmath/book
+[pharpend-repo]: https://gitlab.com/lysa/lysa/tree/master
+
 ### Nightly builds - http://dtscode.io/~lysa/develop/
 
 # Learn You Some Algebras for Glorious Good! [![Build status](https://travis-ci.org/learnmath/lysa.svg)](https://travis-ci.org/learnmath/lysa)
